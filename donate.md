@@ -1,9 +1,7 @@
 如果你喜欢这个主题 可以考虑通过赞助的方式给予我一点鼓励和支持 :)  
-**
 ## 二维码
 ![Wechat](/static/images/wechat.jpg ":size=300")
 ![Alipay](/static/images/alipay.jpg ":size=300")
-**
 ## 赞助名单 
 
 !> 如果您赞助了但不想展示，可以在付款备注里注明或者联系我的邮箱删除记录 
