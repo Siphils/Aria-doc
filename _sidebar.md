@@ -9,3 +9,4 @@
     * [开源项目](/repos.md)
     * [插件推荐](/typecho-plugins.md)
     * [赞助](/donate.md)
+    * [二次开发](/development.md)

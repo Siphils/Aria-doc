@@ -62,6 +62,7 @@
   <script src="//unpkg.com/docsify-copy-code"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-json.js"></script>
+  <script src="//unpkg.com/pangu@4.0.7/dist/browser/pangu.min.js"></script>
   <script>
     var _hmt = _hmt || [];
     (function () {
@@ -70,6 +71,11 @@
       var s = document.getElementsByTagName("script")[0];
       s.parentNode.insertBefore(hm, s);
     })();
+
+    document.addEventListener('DOMContentLoaded', () => {
+    // listen to any DOM change and automatically perform spacing via MutationObserver()
+    pangu.autoSpacingPage();
+  });
   </script>
 
 </body>
